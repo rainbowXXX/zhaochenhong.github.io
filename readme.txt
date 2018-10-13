@@ -7,3 +7,5 @@ git commit -m
 
 git path ÊôĞÔĞŞ¸Ä
 git»ØÍË
+
+git checkout --file
